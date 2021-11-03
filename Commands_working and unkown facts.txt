@@ -1,0 +1,4 @@
+FACT-1:-
+
+WC command used for counting lines, words and character of a given file. But how it is done..... Actually it uses the fact of "\n" to count lines and white spaces to count words and sequence of chars to count charaters.
+If there is no space in a file then it will treat it as one word and one line which actual no. of characters.
